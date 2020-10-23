@@ -1,0 +1,51 @@
+*{
+  height: 1200px;
+  width: 1000;
+  /* margin-right: 10px; */
+  /* padding: 10px; */
+}
+
+header{
+    height: 8%;
+    background-color: cyan;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+nav{
+    height: 30%;
+    background-color: darkorange;
+    border: 1px solid lightgreen;
+    border-radius: 5px;
+}
+aside{
+    height: 40%;
+    width: 25%;
+    background-color: orange;
+    border: 1px solid red;
+    border-radius: 5px;
+    display: inline-block;
+}
+main{
+    height: 40%;
+    background-color: red;
+    border: 1px solid blue;
+    border-radius: 5px;
+    display: inline-block;
+    width: 50%;
+}
+article {
+    height: 20%;
+    margin: 15px;
+    width: 80%;
+    background-color: yellow;
+    border: 1px solid coral;
+    border-radius: 5px;
+}
+footer {
+   height: 8%;
+   background-color: palevioletred;
+   margin-top: 10px;
+   border-radius: 5px;
+   border: 1px solid black;
+}
